@@ -6,8 +6,8 @@
 * Version:       1.0
 * Author:        Steffi Kelly
 * Author URI:    https://steffikelly.com
-* Text Domain: sk21
-* Domain Path: /languages
+* Text Domain: 	sk21
+* Domain Path: 	/languages
 */
 
 function sk21_create_design_post_type() {
